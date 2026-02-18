@@ -1,4 +1,4 @@
-# 1 JOBSHEET-1
+<img width="643" height="404" alt="image" src="https://github.com/user-attachments/assets/684bd183-13cf-4c7c-ba6e-164d60339b5c" /># 1 JOBSHEET-1
 
 ## 1.10.1. Latihan Konseptual
 ### Latihan 1.1
@@ -51,22 +51,32 @@ Eksplorasi sistem yang baru diinstall:
 4. Check network connectivity: ping -c 4 google.com
 ![Alt text for screen readers](images/Latihan-1.5.4.jpg)
 5. Install dan jalankan htop untuk melihat resource usage
-![Alt text for screen readers](images/Latihan-1.4.1.jpg)
+![Alt text for screen readers](images/Latihan-1.5.1.jpg)
+![Alt text for screen readers](images/Latihan-1.5.1(2).jpg)
 6. Buat laporan singkat tentang konfigurasi sistem Anda
+= 
 
 ## 1.10.3. Latihan Refleksi
 ### Latihan 1.6
 Ceritakan pengalaman Anda dengan sistem operasi:
 1. Sistem operasi apa yang Anda gunakan sehari-hari? (Windows, macOS,
 Linux, atau lainnya)
+= Windowns
 2. Berapa lama Anda menggunakan sistem operasi tersebut?
+= 10 tahun
 3. Apa yang Anda sukai dari sistem operasi tersebut?
+= sistemnya sederhana, mudah digunakan dan banyak laptop/pc terutama jenis lama juga menggunakan windows
 4. Apa tantangan atau masalah yang pernah Anda hadapi?
+= windows error atau penyimpanan yang berlebih ketika menyentuh windows 11
 5. Apakah Anda pernah menggunakan sistem operasi lain? Bandingkan
 pengalaman Anda.
+= blom pernah
 6. Setelah mempelajari bab ini, apakah ada sistem operasi lain yang ingin
 Anda coba? Mengapa?
 Tulis refleksi Anda dalam 300-500 kata disertai dengan dokumentasi.
+= Setelah mendalami bab ini, saya menyadari bahwa OS bukan sekadar antarmuka grafis, melainkan arsitek utama yang mengelola interaksi antara hardware dan software. Berdasarkan praktikum yang saya lakukan menggunakan Ubuntu Server, saya tertarik untuk mengeksplorasi Arch Linux sebagai langkah pembelajaran berikutnya. Alasan saya memilih Arch Linux karena sistem ini sangat relevan dengan apa yang akan saya pelajari yaitu pemrogaman java, struktur jaringan dan manajemen sistem. untuk dokumentasinya dibawah ini, saya telah mengonfigurasi Ubuntu Server dengan contoh melalui tool htop, terpantau pengunaan RAM Sebesar 893 mb dari 1,92 gb.
+![Alt text for screen readers](images/Latihan-1.5.1(2).jpg)
+
 
 
 
