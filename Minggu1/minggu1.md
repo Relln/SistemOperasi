@@ -22,7 +22,7 @@ Install Ubuntu Server 22.04 LTS di VirtualBox dengan langkah berikut:
 5. Reboot dan login ke sistem
 6. Dokumentasikan proses instalasi dengan screenshot key steps
 
-![Alt text for screen readers](Sisop/images/Latihan-1.3.jpg)
+![Alt text for screen readers](images/Latihan-1.3.jpg)
 
 ### Latihan 1.4
 Setelah instalasi Ubuntu Server, lakukan tasks berikut:
@@ -56,6 +56,7 @@ pengalaman Anda.
 6. Setelah mempelajari bab ini, apakah ada sistem operasi lain yang ingin
 Anda coba? Mengapa?
 Tulis refleksi Anda dalam 300-500 kata disertai dengan dokumentasi.
+
 
 
 
