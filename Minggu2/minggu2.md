@@ -1,9 +1,9 @@
 # JOBSHEET-2
 
 ## Praktikum 2.1 — Identifikasi CPU dan Memori
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.1.jpg)
+2. ![Alt text for screen readers](images/Praktikum2.1.2jpg)
+3. ![Alt text for screen readers](images/Praktikum2.1.3jpg)
 
 ### Latihan 2.1
 Catat: (1) jumlah CPU(s), core/thread, (2) total RAM, (3) total swap. Jelaskan perbedaan RAM vs swap dalam 2–3 kalimat.
@@ -16,11 +16,11 @@ Catat: (1) jumlah CPU(s), core/thread, (2) total RAM, (3) total swap. Jelaskan p
 RAM (Random Access Memory) adalah memori fisik utama yang bekerja sangat cepat untuk menyimpan data aplikasi yang sedang aktif digunakan oleh CPU. Sementara itu, Swap adalah area di dalam hard drive atau SSD yang digunakan oleh sistem operasi sebagai "memori cadangan" ketika kapasitas RAM fisik sudah penuh, namun dengan kecepatan akses yang jauh lebih lambat dibandingkan RAM.
 
 ## Praktikum 2.2 — Identifikasi Perangkat PCI/USB dan Driver
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
-4. ![Alt text for screen readers]()
-5. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.2.1.jpg)
+2. ![Alt text for screen readers](images/Praktikum2.2.2.jpg)
+3. ![Alt text for screen readers](images/Praktikum2.2.3.jpg)
+4. ![Alt text for screen readers](images/Praktikum2.2.4.jpg)
+5. ![Alt text for screen readers](images/Praktikum2.2.5.jpg)
 
 ### Latihan 2.2
 Temukan 1 perangkat PCI (misal NIC) dan tuliskan: Vendor:Device ID (angkaheksadesimal), nama driver/modul kernel, dan deskripsi singkat fungsinya.
@@ -31,24 +31,20 @@ Keterangan: 8086 adalah ID untuk Intel Corporation.
 Perangkat ini adalah Intel Corporation 82540EM Gigabit Ethernet Controller. Fungsinya adalah sebagai antarmuka jaringan fisik yang memungkinkan sistem operasi untuk terhubung ke jaringan kabel (Ethernet) dan mengirim/menerima data pada kecepatan Gigabit melalui driver e1000.
 
 ## Praktikum 2.3 — Identifikasi Storage dan Filesystem
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.3.1.jpg)
+2. ![Alt text for screen readers](images/Praktikum2.3.2.jpg)
+3. ![Alt text for screen readers](images/Praktikum2.3.3.jpg)
 
 ## Praktikum Praktikum 2.4 — Melihat Modul Aktif dan Informasinya
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.4.1.jpg)
+2. ![Alt text for screen readers](images/Praktikum2.4.2.jpg)
+3. ![Alt text for screen readers](images/Praktikum2.4.3.jpg)
    
 ## Praktikum 2.5 — Konfigurasi Auto-load dan Blacklist
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.5.jpg)
 
 ## Praktikum 2.6 — Mengenali Block vs Character Device
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.6.jpg)
 
 ### Latihan 2.3
 Dari output ls -l, jelaskan perbedaan penanda file untuk block device dan character device. (Hint: karakter pertama pada permission string)
@@ -61,59 +57,40 @@ Penanda: Karakter pertama adalah c (seperti pada crw-rw-rw-).
 Deskripsi: Simbol c menunjukkan bahwa /dev/tty adalah character device. Perangkat ini berkomunikasi dengan mengirimkan data karakter demi karakter secara berurutan tanpa proses buffering yang besar, contohnya adalah terminal atau keyboard.
 
 ## Praktikum 2.7 — Melihat Informasi udev
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.7.jpg)
+
 
 ## Praktikum 2.8 — Membuat Workspace Praktikum
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.8.jpg)
+1. ![Alt text for screen readers](images/Praktikum2.8.2.jpg)
 
 ## Praktikum 2.9 — Pencarian Pola dengan grep
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.9.jpg)
 
 ### Latihan 2.4
 Gunakan grep untuk menampilkan hanya baris yang mengandung INFO atau WARN dari data.log. (Hint: gunakan grep -E dengan pola alternatif)
-![Alt text for screen readers]()
-
+![Alt text for screen readers](images/Praktikum2.4.jpg)
 
 ## Praktikum 2.10 — Substitusi dengan sed (Aman di File Latihan)
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.10.jpg)
 
 ## Praktikum 2.11 — Ekstraksi Kolom dengan awk
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.11.jpg)
 
 ## Praktikum 2.12 — Melihat Proses dengan ps
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.12.jpg)
 
 ## Praktikum 2.13 — Monitoring Real-time dengan top
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.13.jpg)
 
 ## Praktikum 2.14 — Menghentikan Proses dengan kill
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.14.jpg)
 
 ## Praktikum 2.15 — Cek Disk, Load, dan Service
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.15.jpg)
    
 ## Praktikum 2.16 — Monitoring Port dan Koneksi (Network Basics)
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
-3. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Praktikum2.16.jpg)
 
 ### Latihan 2.5
 Pilih satu port yang listening dari output ss -tulpn(misal port 22), lalu tuliskan service/proses yang membukanya. Jelaskan kegunaan port tersebut
@@ -146,28 +123,29 @@ UUID: 809f6ff3-bc95-409f-a3a4-3a4de3ea0511
 
 ### Latihan 2.C
 Buat file server.log berisi minimal 10 baris dengan variasi kata: INFO, WARN, ERROR. Gunakan grep untuk menampilkan hanya baris ERROR.
-![Alt text for screen readers]()
+![Alt text for screen readers](images/Latihan2C.jpg)
 
 ### Latihan 2.D
 Gunakan sed untuk mengganti semua kata server menjadi node pada file latihan. Tunjukkan sebelum dan sesudah.
-1. ![Alt text for screen readers]()
-2. ![Alt text for screen readers]()
+1. ![Alt text for screen readers](images/Latihan2D.1.jpg)
+2. ![Alt text for screen readers](images/Latihan2D.2.jpg)
 
 ### Latihan 2.E
 Gunakan df -h lalu awk untuk menampilkan filesystem yang penggunaan disk di atas 70%.
-![Alt text for screen readers]()
+![Alt text for screen readers](images/Latihan.jpg)
 
 ### Latihan 2.F
 Jalankan sleep 600 &. Temukan PID-nya dengan ps. Hentikan dengan SIGTERM. Jelaskan beda SIGTERM vs SIGKILL.
-![Alt text for screen readers]()
+![Alt text for screen readers](images/Latihan2F.jpg)
 SIGTERM (Signal 15) adalah sinyal terminasi standar yang dikirimkan ke suatu proses untuk memintanya berhenti secara normal. Sinyal ini bersifat "sopan" karena memberikan kesempatan bagi aplikasi untuk menjalankan rutinitas pembersihan (cleanup), seperti menyimpan progres pekerjaan, menutup koneksi database, atau menghapus file sementara sebelum benar-benar mati. Karena proses dapat menangkap (catch) atau mengabaikan sinyal ini, SIGTERM adalah metode yang paling aman untuk menjaga integritas data dan mencegah kerusakan file pada sistem.
 
 Sebaliknya, SIGKILL (Signal 9) adalah perintah terminasi paksa yang tidak dapat ditangkap, diblokir, atau diabaikan oleh proses tersebut. Saat sinyal ini dikirim, kernel sistem operasi akan langsung menghentikan eksekusi proses dan menghapusnya dari memori tanpa peringatan apa pun. Meskipun sangat efektif untuk mematikan proses yang macet (frozen) atau tidak responsif, penggunaan SIGKILL membawa risiko karena aplikasi tidak sempat melakukan prosedur penutupan yang benar, yang berpotensi menyebabkan korupsi data atau meninggalkan file sampah di dalam sistem.
 
 ### Latihan 2.G
 Gunakan systemctl –failed. Jika tidak ada yang gagal, pilih satu service aktif (misal ssh) dan tampilkan status serta 30 baris log terakhirnya.
-![Alt text for screen readers]()
+![Alt text for screen readers](images/Latihan2g.jpg)
  
+
 
 
 
