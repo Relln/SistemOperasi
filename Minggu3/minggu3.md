@@ -7,7 +7,7 @@ Buatlah script yang:
 2. Menyimpan hasilnya ke file large-logs.txt
 3. Menampilkan output juga di terminal menggunakan tee
 4. Menangani error dengan redirect ke error.log
-= 
+![Alt text for screen readers](images/Latihan-3.1.jpg)
 
 ### Latihan 3.2
 Buat pipeline yang:
@@ -16,7 +16,7 @@ Buat pipeline yang:
 3. Mengurutkan alfabetis
 4. Menyimpan ke file sorted-users.txt
 Hint: Gunakan cut, sort, dan operator redirect.
-= 
+![Alt text for screen readers](images/Latihan-3.2.jpg)
 
 ###Latihan 3.3
 Tulis script monitoring yang:
@@ -24,7 +24,7 @@ Tulis script monitoring yang:
 2. Menyimpan log dengan timestamp
 3. Berjalan selama 1 menit (12 iterasi)
 4. Output ditampilkan di terminal DAN disimpan ke file
-=
+![Alt text for screen readers](images/Latihan-3.3.jpg)
 
 ### Latihan 3.4
 Buat perintah yang:
@@ -32,7 +32,7 @@ Buat perintah yang:
 2. Membuang pesan "Permission denied"
 3. Menghitung jumlah file yang ditemukan
 4. Menyimpan daftar path lengkap ke file
-=
+![Alt text for screen readers](images/Latihan-3.4.jpg)
 
    
 ### Latihan 3.5
@@ -42,5 +42,6 @@ Implementasikan script backup yang:
 3. Mencatat stdout ke backup-success.log
 4. Mencatat stderr ke backup-error.log
 5. Menambahkan timestamp di setiap log entry
-= 
+![Alt text for screen readers](images/Latihan-3.5.jpg)
+
 
