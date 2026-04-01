@@ -3,18 +3,17 @@
 ## Praktikum 6.1 — Melihat Proses dan Thread
 ### Latihan 6.1
 Jalankan ps aux dan amati outputnya:
-1. Berapa total proses yang berjalan? Proses apa yang memiliki PID
-terkecil?
+1. Berapa total proses yang berjalan? Proses apa yang memiliki PID terkecil?
 = bash dengan PID 13712
+![Alt text](images/Latihan-6.1.1.png)
 
-2. Jalankan pstree -p dan temukan proses bash Anda. Proses apa yang
-menjadi induk (PPID) dari bash tersebut?
+2. Jalankan pstree -p dan temukan proses bash Anda. Proses apa yang menjadi induk (PPID) dari bash tersebut?
 = PID bash 13712, dan induk PPID 13687
+![Alt text](images/Latihan-6.1.2.png)
 
-3. Bandingkan output ps aux dan ps aux -L. Apa perbedaan yang Anda
-lihat?
+3. Bandingkan output ps aux dan ps aux -L. Apa perbedaan yang Anda lihat?
 = munculnya dua kolom yaitu LWP dan NLWP kemudian ps aux hanya menampilkan daftar proses sedangkan ps aux -L menampilkan setiap thread secara individu
-![Alt text](images/Latihan-6.1.png)
+![Alt text](images/Latihan-6.1.3.png)
 
 ## Praktikum 6.2 — Mengamati Siklus Hidup Proses
 ### Latihan 6.2
